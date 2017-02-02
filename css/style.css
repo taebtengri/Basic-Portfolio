@@ -158,3 +158,11 @@ margin-bottom: 20px;
     padding: 50px;
     width: 50%;
 }
+
+.bord {
+    border-right: black;
+    margin-right: 5%;
+    border-style: solid;
+    padding-right: 5%;
+    width: 3%
+}
